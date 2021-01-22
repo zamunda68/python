@@ -1,4 +1,3 @@
-# test edit
 # Python variable function example
 # Basic example of the print() function with new line between the words
 print("Hello \n Marin")
